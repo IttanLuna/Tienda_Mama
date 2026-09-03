@@ -46,5 +46,35 @@
     "nombre": "Crema para Manos",
     "categoria": "Crema",
     "precio": 22.00
+  },
+  {
+    "id": 9,
+    "nombre": "Perfume Jazmín",
+    "categoria": "Perfumes",
+    "precio": 65.00
+  },
+  {
+    "id": 10,
+    "nombre": "Jabón Exfoliante",
+    "categoria": "Jabones",
+    "precio": 20.00
+  },
+  {
+    "id": 11,
+    "nombre": "Shampoo Reparador",
+    "categoria": "Shampoo",
+    "precio": 32.00
+  },
+  {
+    "id": 12,
+    "nombre": "Máscara de Pestañas",
+    "categoria": "Maquillaje",
+    "precio": 45.00
+  },
+  {
+    "id": 13,
+    "nombre": "Loción Corporal Aloe",
+    "categoria": "Cuidado Corporal",
+    "precio": 38.00
   }
 ]
