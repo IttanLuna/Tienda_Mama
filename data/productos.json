@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Perfume Rosas",
+    "categoria": "Perfumes",
+    "precio": 45.00
+  },
+  {
+    "id": 2,
+    "nombre": "Perfume Vainilla",
+    "categoria": "Perfumes",
+    "precio": 52.00
+  },
+  {
+    "id": 3,
+    "nombre": "Jabón de Avena",
+    "categoria": "Jabones",
+    "precio": 12.00
+  },
+  {
+    "id": 4,
+    "nombre": "Jabón de Coco",
+    "categoria": "Jabones",
+    "precio": 15.00
+  },
+  {
+    "id": 5,
+    "nombre": "Shampoo Anticaspa",
+    "categoria": "Shampoo",
+    "precio": 28.00
+  },
+  {
+    "id": 6,
+    "nombre": "Crema Hidratante",
+    "categoria": "Crema",
+    "precio": 35.00
+  },
+  {
+    "id": 7,
+    "nombre": "Desodorante Roll-On",
+    "categoria": "Desodorante",
+    "precio": 18.00
+  },
+  {
+    "id": 8,
+    "nombre": "Crema para Manos",
+    "categoria": "Crema",
+    "precio": 22.00
+  }
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tienda Mamá - Catálogo de Productos</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Tienda Mamá</h1>
+    <p>Catálogo de Productos</p>
+  </header>
+
+  <main class="main">
+    <section class="buscador">
+      <input 
+        type="text" 
+        id="searchInput" 
+        placeholder="Buscar producto por nombre..."
+        autocomplete="off"
+      >
+    </section>
+
+    <section class="filtros" id="filtros">
+      <!-- Los filtros se generan dinámicamente -->
+    </section>
+
+    <section class="catalogo" id="catalogo">
+      <!-- Los productos se generan dinámicamente -->
+    </section>
+
+    <p class="no-resultados" id="noResultados" style="display: none;">
+      No se encontraron productos.
+    </p>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2026 Tienda Mamá</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
