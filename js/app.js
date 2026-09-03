@@ -59,9 +59,12 @@ function mostrarProductos(lista) {
   noResultados.style.display = 'none';
   catalogo.innerHTML = lista.map(producto => `
     <div class="producto-card">
-      <div class="producto-img">
-        ${iconos[producto.categoria] || iconos['default']}
-      </div>
+      ${
+        producto.imagen
+          ? `<img class="producto-img" src="${producto.imagen}" alt="${producto.nombre}"
+              onerror="this.style.display='none'; this.insertAdjacentHTML('afterend', '<div class=&quot;producto-img&quot;>${iconos[producto.categoria] || iconos['default']}</div>');">`
+          : `<div class="producto-img">${iconos[producto.categoria] || iconos['default']}</div>`
+      }
       <div class="producto-info">
         <h3 class="producto-nombre">${producto.nombre}</h3>
         <p class="producto-categoria">${producto.categoria}</p>

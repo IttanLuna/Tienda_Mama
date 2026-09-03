@@ -1,80 +1,16 @@
 [
   {
     "id": 1,
-    "nombre": "Perfume Rosas",
-    "categoria": "Perfumes",
-    "precio": 45.00
+    "nombre": "Desodorante Axe",
+    "categoria": "Desodorante",
+    "precio": 30.00,
+    "imagen": "img/Desodorante_Axe.webp"
   },
   {
     "id": 2,
-    "nombre": "Perfume Vainilla",
-    "categoria": "Perfumes",
-    "precio": 52.00
-  },
-  {
-    "id": 3,
-    "nombre": "Jabón de Avena",
-    "categoria": "Jabones",
-    "precio": 12.00
-  },
-  {
-    "id": 4,
-    "nombre": "Jabón de Coco",
-    "categoria": "Jabones",
-    "precio": 15.00
-  },
-  {
-    "id": 5,
-    "nombre": "Shampoo Anticaspa",
-    "categoria": "Shampoo",
-    "precio": 28.00
-  },
-  {
-    "id": 6,
-    "nombre": "Crema Hidratante",
-    "categoria": "Crema",
-    "precio": 35.00
-  },
-  {
-    "id": 7,
-    "nombre": "Desodorante Roll-On",
-    "categoria": "Desodorante",
-    "precio": 18.00
-  },
-  {
-    "id": 8,
-    "nombre": "Crema para Manos",
-    "categoria": "Crema",
-    "precio": 22.00
-  },
-  {
-    "id": 9,
-    "nombre": "Perfume Jazmín",
-    "categoria": "Perfumes",
-    "precio": 65.00
-  },
-  {
-    "id": 10,
-    "nombre": "Jabón Exfoliante",
-    "categoria": "Jabones",
-    "precio": 20.00
-  },
-  {
-    "id": 11,
-    "nombre": "Shampoo Reparador",
-    "categoria": "Shampoo",
-    "precio": 32.00
-  },
-  {
-    "id": 12,
-    "nombre": "Máscara de Pestañas",
-    "categoria": "Maquillaje",
-    "precio": 45.00
-  },
-  {
-    "id": 13,
-    "nombre": "Loción Corporal Aloe",
+    "nombre": "Gel Fixer Grande",
     "categoria": "Cuidado Corporal",
-    "precio": 38.00
+    "precio": 18.00,
+    "imagen": "img/Gel_Fixer_Grande.webp"
   }
 ]
