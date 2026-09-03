@@ -12,5 +12,26 @@
     "categoria": "Cuidado Corporal",
     "precio": 18.00,
     "imagen": "img/Gel_Fixer_Grande.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Gel Fixer Pequeño",
+    "categoria": "Cuidado Corporal",
+    "precio": 8.00,
+    "imagen": "img/Gel_Fixer_Pequeño.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Tinte Koleston",
+    "categoria": "Tintes de Cabello",
+    "precio": 29.00,
+    "imagen": "img/Tinte_Koleston.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Desodorante Nivea",
+    "categoria": "Cuidado Corporal",
+    "precio": 33.00,
+    "imagen": "img/Desodorante_Nivea.webp"
   }
 ]

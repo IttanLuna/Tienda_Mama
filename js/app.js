@@ -12,6 +12,7 @@ const iconos = {
   'Cuidado Corporal': '🪷',
   'Maquillaje': '💄',
   'Accesorios': '🎀',
+  'Tintes de Cabello': '🎨',
   'default': '📦'
 };
 
