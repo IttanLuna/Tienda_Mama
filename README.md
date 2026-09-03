@@ -12,6 +12,7 @@ Edita el archivo `data/productos.json` y agrega productos con esta estructura:
   "nombre": "Nombre del Producto",
   "categoria": "Categoría",
   "precio": 0.00
+  "imagen": "Nombre del archivo"
 }
 ```
 
