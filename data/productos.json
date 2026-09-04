@@ -33,5 +33,221 @@
     "categoria": "Cuidado Corporal",
     "precio": 33.00,
     "imagen": "img/Desodorante_Nivea.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Desodorante Dove",
+    "categoria": "Desodorante",
+    "precio": 33.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 7,
+    "nombre": "Desodorante Kevin",
+    "categoria": "Desodorante",
+    "precio": 55.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 8,
+    "nombre": "Aceite de Coco",
+    "categoria": "Cuidado Corporal",
+    "precio": 25.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 9,
+    "nombre": "Protector solar Bahía",
+    "categoria": "Cuidado Corporal",
+    "precio": 100.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 10,
+    "nombre": "Protector Nivea",
+    "categoria": "Cuidado Corporal",
+    "precio": 135.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 11,
+    "nombre": "Collagen",
+    "categoria": "Cuidado Corporal",
+    "precio": 50.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 12,
+    "nombre": "Leche de Burra",
+    "categoria": "Cuidado Corporal",
+    "precio": 50.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 13,
+    "nombre": "Cúrcuma",
+    "categoria": "Cuidado Corporal",
+    "precio": 50.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 13,
+    "nombre": "Polvo Texturizador",
+    "categoria": "Accesorios",
+    "precio": 45.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 14,
+    "nombre": "Cera para el cablello",
+    "categoria": "Accesorios",
+    "precio": 40.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 15,
+    "nombre": "Cera para el cablello niños",
+    "categoria": "Accesorios",
+    "precio": 40.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 16,
+    "nombre": "Jabon Cúrcuma",
+    "categoria": "Jabones",
+    "precio": 18,
+    "imagen": "img/"
+  },
+  {
+    "id": 17,
+    "nombre": "Tinte de Fantasia",
+    "categoria": "Tintes de Cabello",
+    "precio": 30.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 18,
+    "nombre": "Aqua Net Grande",
+    "categoria": "Accesorios",
+    "precio": 50,
+    "imagen": "img/"
+  },
+  {
+    "id": 19,
+    "nombre": "Emynent Fijador",
+    "categoria": "Accesorios",
+    "precio": 50.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 20,
+    "nombre": "Emynent Mousse",
+    "categoria": "Accesorios",
+    "precio": 60.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 21,
+    "nombre": "Alvaro LaFuente",
+    "categoria": "Shampoo",
+    "precio": 50.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 22,
+    "nombre": "Plussbelle",
+    "categoria": "Shampoo",
+    "precio": 30,
+    "imagen": "img/"
+  },
+  {
+    "id": 23,
+    "nombre": "Isabel",
+    "categoria": "Maquillaje",
+    "precio": 25.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 24,
+    "nombre": "Pyv",
+    "categoria": "Maquillaje",
+    "precio": 30,
+    "imagen": "img/"
+  },
+  {
+    "id": 25,
+    "nombre": "Maquillaje Caja Azul",
+    "categoria": "Maquillaje",
+    "precio": 15.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 26,
+    "nombre": "Maquillaje Caja Rosada",
+    "categoria": "Maquillaje",
+    "precio": 15.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 27,
+    "nombre": "Maquillaje Collagen",
+    "categoria": "Maquillaje",
+    "precio": 50.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 28,
+    "nombre": "Maquillaje Yambal",
+    "categoria": "Maquillaje",
+    "precio": 200.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 29,
+    "nombre": "Crema Nivea Grande",
+    "categoria": "Cuidado Corporal",
+    "precio": 45.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 30,
+    "nombre": "Crema Nivea Pequeña",
+    "categoria": "Cuidado Corporal",
+    "precio": 25.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 31,
+    "nombre": "Crema Rexona",
+    "categoria": "Cuidado Corporal",
+    "precio": 25.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 32,
+    "nombre": "Rollon Dove",
+    "categoria": "Desodorante",
+    "precio": 29.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 33,
+    "nombre": "Rollon Esika",
+    "categoria": "Desodorante",
+    "precio": 35.00,
+    "imagen": "img/"
+  },
+  {
+    "id": 34,
+    "nombre": "Rollon Yambal",
+    "categoria": "Desodorante",
+    "precio": 45.00,
+    "imagen": "img/"
+  },{
+    "id": 35,
+    "nombre": "Rollon Nivea",
+    "categoria": "Desodorante",
+    "precio": 29.00,
+    "imagen": "img/"
   }
 ]
